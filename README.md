@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Gavriel Michaeli ,I'm a computer science student.
+### Hi there 👋 my name is Gavriel Michaeli , I am a computer science student who is passionate about data science.
 - 🔭 I’m currently working on the final project of my degree in data science.
 
 <!--
