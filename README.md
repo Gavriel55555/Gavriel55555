@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Gavriel Michaeli ,I'm a computer science student.
+- 🔭 I’m currently working on the final project of my degree in data science.
 
 <!--
 **Gavriel55555/Gavriel55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
